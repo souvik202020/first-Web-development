@@ -1,0 +1,814 @@
+
+b{
+  color:white;
+}
+b:hover{
+  color: #DA0000;
+}
+
+
+.head{
+
+  padding:18% 12% 0 0;
+  background-image: url("https://thumbs.dreamstime.com/b/themis-statue-justice-scales-law-lawyer-business-concept-123697425.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+
+
+}
+
+
+.big-heading{
+font-family: 'Poppins', sans-serif;
+  color:black;
+  font-size: 5vw;
+  line-height: 1.25;
+  margin-left: 10%;
+}
+.small-heading{
+font-family: 'Poppins', sans-serif;
+  color: grey;
+  font-size:2rem;
+  margin-left: 10%;
+}
+.red-color{
+background-color: #DA0000;
+  color:white;
+  text-align: left;
+
+  margin-left: 0;
+  margin-bottom: 0;
+  margin-top: 8%;
+  padding-top: 3vw;
+  padding-left: 8rem;
+  padding-bottom: 2.5vw;
+  width:30rem;;
+  font-family: 'Poppins', sans-serif;
+    font-size:1vw;
+}
+
+
+
+
+
+
+/*navigation*/
+.navbar{
+  background-color: #000;
+  padding:16px 32px;
+}
+
+.navbar-brand{
+  margin: 0;
+  padding-left:2.5vw;
+  padding-right:10vw;
+  font-size: 2rem;
+
+}
+.navbar-nav{
+margin-left: 7vw;
+margin-right: 7vw;
+}
+
+b{
+  padding-right: 1.8vw;
+
+}
+
+.login-button{
+margin-left: 0vw;
+}
+
+.btn{
+  border:0;
+  color: red;
+}
+
+.btn:hover{
+  background-color: #DA0000;
+  color: white;
+}
+
+
+/*Legal Practice Area*/
+
+.Legal{
+  padding:7% 12%;
+  background-color: white;
+  }
+
+  .white-heading{
+  font-family: 'Poppins', sans-serif;
+    text-align:center;
+    font-size: 3rem;
+  }
+  .red-flow{
+    background-color: #DA0000;
+    width:14vw;
+    height:0.3rem;
+    border-radius: 0.13vw;
+   margin-left: 30vw;
+    margin-top: 3rem;
+
+    }
+ .space{
+   background-color: white;
+   position: relative;
+   display: inline-block;
+   -webkit-animation: divider1 4s infinite linear;
+}
+@keyframes divider1 {
+  0%{
+    left: 0%;
+  }
+  100%{
+    left: 100%;
+  }
+}
+
+
+
+.img{
+  overflow: hidden;
+}
+
+img{
+  margin-top: 3.5rem;
+  width:30rem;
+  height:19rem;
+
+
+
+}
+
+.text{
+
+  margin-left: 1.2vw;
+  margin-top: 2vw;
+  text-align: left;
+
+}
+
+/*Just About Law*/
+
+.Just{
+  padding:7% 10% 18% 12%;
+  background-color: #F5F5F5;
+
+  overflow: hidden;
+}
+
+.heading{
+font-family: 'Poppins', sans-serif;
+  text-align:left;
+  font-size: 2.6rem;
+}
+
+.red{
+  background-color: #DA0000;
+  width:25%;
+  height:0.3rem;
+  border-radius: 0.13vw;
+  margin-left:4rem;
+  margin-top: 2.6vw;
+  margin-bottom: 3.6vw;
+
+  }
+  .spaces{
+    background-color: #F5F5F5;
+    position: relative;
+    display: inline-block;
+    -webkit-animation: divider1 4s infinite linear;
+ }
+.para{
+  width:23rem;
+  overflow: hidden;
+
+}
+.first{
+  margin-right: 30px;
+  overflow: visible;
+}
+
+.happy-clients{
+  position: relative;
+  width:10rem;
+  height:7rem;
+  background-color: white;
+  text-align: center;
+  padding-top:1.3rem;
+  top:3rem;
+
+}
+
+.winning-case{
+  position: relative;
+  width:10rem;
+  height:7rem;
+  background-color: white;
+  text-align: center;
+  padding-top:1.3rem;
+  left:11rem;
+  bottom:4rem;
+
+}
+
+.image1{
+  position: relative;
+
+  left:13vw;
+  width:23rem;
+  height:28rem;
+  overflow: hidden;
+}
+
+.image2{
+  position: absolute;
+  width:21rem;
+  height: 28rem;
+  top:3.5rem;
+  left:0;
+border: 20px solid rgba(255, 255, 255, 0.5);
+  overflow: hidden;
+}
+
+
+/*free consultant*/
+.free-Consultation{
+  background-image: url("https://image.shutterstock.com/image-photo/law-theme-mallet-judge-justice-260nw-565549327.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+
+
+}
+.form{
+
+  background-color: white;
+  width:51rem;
+ height:50rem;
+  position: relative;
+  left:10rem;
+  bottom: 7rem;
+
+  margin-right: 20rem;
+  overflow: hidden;
+
+}
+@media only screen and (max-width: 1199px){
+.form{
+  width:40rem;
+  height:40rem;
+  left:8rem;
+  bottom:6rem;
+}
+}
+@media only screen and (max-width: 991px){
+.form{
+  width:30rem;
+  height:30rem;
+  left:6rem;
+  bottom:4.5rem;
+}
+}
+@media only screen and (max-width: 767px){
+.form{
+  width:29rem;
+  height:30rem;
+  left:0;
+  right:4rem;
+  bottom:2rem;
+  overflow: hidden;
+}
+}
+
+.header{
+  text-align: center;
+  padding-top: 6rem;
+}
+@media only screen and (max-width: 1199px){
+.header{
+  padding-top: 4rem;
+}
+}
+@media only screen and (max-width: 991px){
+.header{
+  padding-top: 2rem;
+}
+}
+.reds{
+  background-color: #DA0000;
+  width:9rem;
+  height:0.3rem;
+  border-radius: 0.13vw;
+  margin-left:20rem;
+  margin-top: 2.6vw;
+  margin-bottom: 3.6vw;
+}
+@media only screen and (max-width: 1199px){
+  .reds{
+    margin-left:17rem;
+    margin-top: 2.3vw;
+    margin-bottom: 3.2vw;
+  }
+}
+@media only screen and (max-width: 991px){
+  .reds{
+    margin-left:11rem;
+    margin-top: 2vw;
+    margin-bottom: 2.8vw;
+  }
+}
+.forms{
+  padding: 2rem 4rem;
+}
+@media only screen and (max-width: 1199px){
+.forms{
+  padding: 1.5rem 3rem;
+}
+}
+@media only screen and (max-width: 991px){
+.forms{
+  padding: 1.1rem 2.4rem;
+}
+}
+#name{
+  width:18rem;
+  height:3rem;
+  margin: 1.3rem;
+  padding: 20px;
+  font-size: 18px;
+  font-weight: bold;
+  box-sizing: border-box;
+ border: none;
+ background-color: #F5F5F5;
+ color: white;
+
+}
+@media only screen and (max-width: 1199px){
+  #name{
+    width:14rem;
+    height:2.8rem;
+    margin: 1rem;
+    padding: 20px;
+    font-size: 15px;
+  }
+}
+@media only screen and (max-width: 991px){
+  #name{
+    width:10rem;
+    height:2.5rem;
+    margin: 0.6rem;
+    padding: 16px;
+    font-size: 12px;
+  }
+}
+#phone{
+  width:18rem;
+  height:3rem;
+  margin: 1.3rem;
+  padding: 20px;
+  font-size: 18px;
+  font-weight: bold;
+  box-sizing: border-box;
+ border: none;
+ background-color: #F5F5F5;
+ color: white;
+}
+@media only screen and (max-width: 1199px){
+  #phone{
+    width:14rem;
+    height:2.8rem;
+    margin: 1rem;
+    padding: 20px;
+    font-size: 15px;
+  }
+}
+@media only screen and (max-width: 991px){
+  #phone{
+    width:10rem;
+    height:2.5rem;
+    margin: 0.6rem;
+    padding: 16px;
+    font-size: 12px;
+  }
+}
+#email{
+  width:18rem;
+  height:3rem;
+  margin: 1.3rem;
+  padding: 20px;
+  font-size: 18px;
+  font-weight: bold;
+  box-sizing: border-box;
+  border: none;
+  background-color: #F5F5F5;
+  color: white;
+}
+@media only screen and (max-width: 1199px){
+  #email{
+    width:14rem;
+    height:2.8rem;
+    margin: 1rem;
+    padding: 20px;
+    font-size: 15px;
+  }
+}
+@media only screen and (max-width: 991px){
+  #email{
+    width:10rem;
+    height:2.5rem;
+    margin: 0.6rem;
+    padding: 16px;
+    font-size: 12px;
+  }
+}
+#problem{
+  width:18rem;
+  height:3rem;
+  margin: 1.3rem;
+  padding: 10px;
+  font-weight: bold;
+ box-sizing: border-box;
+background-color: #F5F5F5;
+border: none;
+color:grey;
+}
+@media only screen and (max-width: 1199px){
+  #problem{
+    width:14rem;
+    height:2.8rem;
+    margin: 1rem;
+    padding: 8px;
+
+  }
+}
+@media only screen and (max-width: 991px){
+  #problem{
+    width:10rem;
+    height:2.5rem;
+    margin: 0.6rem;
+    padding: 6px;
+    s
+  }
+}
+#text{
+width:39rem;
+margin: 1.3rem;
+padding: 25px;
+font-size: 18px;
+font-weight: bold;
+box-sizing: border-box;
+background-color: #F5F5F5;
+border: none;
+color:grey;
+}
+@media only screen and (max-width: 1199px){
+  #text{
+    width:30rem;
+
+    margin: 1rem;
+    padding: 18px;
+    font-size: 15px;
+  }
+}
+@media only screen and (max-width: 991px){
+  #text{
+    width:21.5rem;
+
+    margin: 0.6rem;
+    padding: 12px;
+    font-size: 12px;
+  }
+}
+.btn-danger{
+  height:4rem;
+  width:39rem;
+  margin-left:20px;
+  color:white;
+  font-size: 18px;
+  font-weight: bold;
+
+}
+@media only screen and (max-width: 1199px){
+  .btn-danger{
+    width:30rem;
+    height:3.6rem;
+    margin: 16px;
+
+    font-size: 15px;
+  }
+}
+@media only screen and (max-width: 991px){
+  .btn-danger{
+    width:21.5rem;
+    height:3.2rem;
+    margin: 12px;
+
+    font-size: 12px;
+  }
+}
+
+/*Team Mates*/
+
+
+.team-heading{
+    margin-top: 12vw;
+    margin-bottom: 2.3vw;
+    margin-left: 41vw;
+    font-size: 3vw;
+    font-weight: bolder;
+    color: black;
+}
+@media only screen and (max-width: 1199px){
+  .team-heading{
+    font-size: 5vw;
+  }
+}
+
+.red-flows{
+  background-color: #DA0000;
+  width:10%;
+  height:0.3rem;
+  border-radius: 0.13vw;
+  margin-left: 44vw;
+  margin-top: 3rem;
+
+}
+
+@media only screen and (max-width:1199px){
+  .red-flows{
+    width: 17%;
+    height: 0.5vw;
+    border-radius: 0.2vw;
+    margin-left: 46vw;
+  }
+}
+.img-of {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    align-content: space-between;
+    width: 100%;
+    padding-top: 4vw;
+    padding-bottom: 11vw;
+}
+.member-details{
+      display: flex;
+      flex-flow: column wrap;
+      justify-content: center;
+      align-items: center;
+      width: 24.5%;
+      height: 20%;
+      margin: 0.9vw;
+      background-color: #FCFCFC;
+  }
+
+  @media only screen and (max-width:1199px){
+  .member-details{
+  width: 29.2%;
+    height: 20%;
+    margin: 1.5vw
+}
+}
+.member-image{
+  margin-bottom: 0.5vw;
+  width:100%;
+  height:100%;
+}
+.team-pic{
+  width:100%;
+  height:100%;
+}
+
+.member-details a{
+  text-decoration: none;
+    color: black;
+    font-size: 1.5vw;
+    font-weight: 600;
+    transition-timing-function: ease;
+    transition-duration: 0.3s;
+    margin: 0
+}
+@media only screen and (max-width:1199px){
+  .member-details a{
+    font-size: 2.5vw;
+  }
+}
+.member-details p{
+    color: black;
+    font-weight: 600;
+    font-size: 1vw;
+    margin: 0.2vw 0 0 0;
+}
+@media only screen and (max-width:1199px){
+  .member-details p{
+    font-size: 1.5vw;
+  }
+
+}
+
+/*blog*/
+
+.blog{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 50vw;
+    padding-bottom: 4vw;
+    background-color: black;
+    background-size: 100% 100%;
+    color: white;
+}
+
+@media only screen and (max-width: 1199px){
+#blog {
+    padding-top: 2vw;
+    padding-bottom: 8vw;
+  }
+}
+@media only screen and (max-width: 991px){
+#blog {
+    height: 60vw;
+    padding-bottom: 10vw;
+}
+}
+
+.blogHeading{
+  margin-bottom: 2vw;
+  margin-top: 2.5vw;
+ font-size: 3.3vw;
+ font-weight: bolder;
+ color: white;
+}
+
+@media only screen and (max-width: 1199px){
+.blogHeading {
+    font-size: 4vw;
+    margin-bottom: 3vw;
+    margin-top: 10vw;
+}
+}
+.white-black{
+  background-color: #DA0000;
+
+  width:10%;
+  height:0.3rem;
+  border-radius: 0.13vw;
+  margin-left: 1vw;
+  margin-top: 3vw;
+
+}
+
+@media only screen and (max-width:1199px){
+  .white-black{
+    width: 17%;
+    height: 0.5vw;
+    border-radius: 0.2vw;
+    margin-left: 2vw;
+  }
+}
+
+.black{
+  background-color: white;
+  height:100%;
+  position: relative;
+  display: inline-block;
+  -webkit-animation: divider1 4s infinite linear;
+}
+
+#blog-carousel{
+  width:70%;
+  margin: 5vw;
+}
+.carousel-item{
+  margin-left: 14vw;
+  width:60%;
+  align-items: center;
+  text-align: center;
+  font-size: 1.2vw;
+  font-weight: 600;
+  line-height: 2vw;
+}
+
+@media only screen and (max-width:1199px){
+  .carousel-item{
+       font-size: 1.5vw;
+       width:75%;
+       margin-left: 9vw;
+    }
+  }
+
+  .author-image{
+    height:60%;
+  }
+
+  .author-image img{
+   border-radius: 100%;
+   width: 14%;
+   height: 18%;
+   margin-top: 1vw;
+  }
+
+  .author-image h6{
+    margin-top: 1vw;
+    font-size: 1.5vw;
+  }
+
+
+  /*preFooter*/
+
+  .preFooter {
+    display: flex;
+    flex-flow: row wrap;
+    align-items: center;
+    background-color: #DA0000;
+}
+
+.loan {
+    display: flex;
+    flex-flow: column wrap;
+    color: white;
+    padding: 6vw 0;
+    margin-left: 12vw;
+    margin-right: 20vw;
+}
+
+@media only screen and (max-width: 1199px){
+.loan {
+    padding: 9vw 0;
+    margin-left: 3vw;
+    margin-right: 5vw;
+}
+}
+
+@media only screen and (max-width: 991px){
+.loan {
+    margin-left: 5vw;
+    margin-right: 8vw;
+}
+}
+
+.loan h2 {
+    padding: 0;
+    margin: 0;
+    font-size: 2.5vw;
+    font-weight: bolder;
+}
+
+@media only screen and (max-width: 1199px){
+.loan h2 {
+    font-size: 4vw;
+}
+}
+
+.loan p {
+    padding: 0;
+    margin: 0;
+    font-size: 1vw;
+    font-weight: 600;
+}
+
+@media only screen and (max-width: 1199px){
+.loan p {
+    font-size: 1.7vw;
+}
+}
+
+@media only screen and (max-width: 991px){
+.loan p {
+    font-size: 2.1vw;
+    margin: 2vw 0;
+}
+}
+
+.getStarted {
+    padding: 1.3vw 2vw;
+    border: none;
+    border-radius: 0.3vw;
+    font-size: 1vw;
+    font-weight: 600;
+    background-color: white;
+    color: #DA0000;
+    margin-right: 3vw;
+    cursor: pointer;
+    transition: 0.3s ease;
+}
+
+@media only screen and (max-width: 1199px){
+.getStarted {
+    padding: 2.2vw 3vw;
+    border-radius: 0.5vw;
+    font-size: 1.4vw;
+}
+}
+
+@media only screen and (max-width: 991px){
+.getStarted {
+    padding: 3vw 4vw;
+    border-radius: 0.5vw;
+    font-size: 1.8vw;
+}
+}
